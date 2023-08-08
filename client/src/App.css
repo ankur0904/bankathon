@@ -1,0 +1,9 @@
+.hero-card{
+  height: 135px;
+  padding: 14px;
+  font-weight: 300;
+}
+
+.hero-card-span{
+  font-weight: 400;
+}
